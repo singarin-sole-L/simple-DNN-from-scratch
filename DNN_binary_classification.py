@@ -1,4 +1,4 @@
-# We implement a many logisticRegression for create our DNN
+# We implement many logisticRegression for create our DNN
 # We use only sigmoide (activate function), Log Loss (cost function) and normal Gradient Descent (GD)
 # Problem of vanishing gradient here (must use ReLU) and SDG if we have a lot of data
 import numpy as np
